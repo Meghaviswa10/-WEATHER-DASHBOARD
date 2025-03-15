@@ -22,6 +22,7 @@ The primary function of the Weather App is to fetch and display weather data fro
 The app is designed to be responsive and user-friendly, ensuring that users can easily navigate through the interface. The use of images representing different weather conditions (such as sunny, rainy, snowy, and cloudy) adds a visual element that makes the app more engaging. The app also includes loading animations to indicate when data is being fetched, providing users with feedback during the waiting period.
 
 **Tools Used**
+
 The development of the Weather App involved several tools and technologies:
 
 **React**: The core library used for building the user interface. React's component-based architecture allows for modular development, making it easier to manage and update the app.
@@ -35,6 +36,7 @@ The development of the Weather App involved several tools and technologies:
 **Version Control (Git)**: The app is managed using Git for version control, allowing for collaborative development and tracking changes over time.
 
 **Editor Platform**
+
 The Weather App is developed using Visual Studio Code (VSCode), a popular code editor known for its powerful features and extensions. VSCode provides a user-friendly interface, integrated terminal, and support for various programming languages, making it an ideal choice for web development. The editor's features, such as IntelliSense, debugging capabilities, and Git integration, enhance the development workflow, allowing developers to write, test, and debug code efficiently.
 
 **Conclusion**
